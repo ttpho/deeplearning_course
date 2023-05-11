@@ -1,2 +1,8 @@
-# deeplearning_course
+# Deep Learning Course
 ChatGPT Prompt Engineering for Developers
+
+https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+
+# Contents 
+
+### Introduction
